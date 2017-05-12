@@ -1,2 +1,2 @@
-# Parser-LR-0-
+# Parser-LR0
 Analizador sintáctico de gramáticas LR(0)
