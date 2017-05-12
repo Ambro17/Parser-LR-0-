@@ -1,0 +1,8 @@
+{A,B}
+{a,b,c,(,)}
+{A}
+A->(A)Ba
+A->Bb
+B->a
+B->b
+B->ccc
